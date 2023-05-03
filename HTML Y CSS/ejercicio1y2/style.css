@@ -1,0 +1,12 @@
+.error{
+    font-weight: bold;
+color: RED;
+border-style: solid;
+border-color: black;
+border-width: 2px;
+padding: 10px;
+
+}
+h1{
+    font-weight: bold;
+}
